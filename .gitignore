@@ -69,6 +69,7 @@ local.properties
 ######################
 /log/
 **/target/
+/release.properties
 
 ######################
 # Gradle
@@ -139,3 +140,6 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+
+
